@@ -11,9 +11,9 @@ Using the Collaborative Filtering, Content Based Filtering and K-Means Clusterin
 
 ## Installation
 
-Steps to install and run your project locally.
+```Steps to install and run your project locally.```
 
-``bash
+
 # Clone this repository
 git clone https://github.com/username/repository.git
 
@@ -23,9 +23,10 @@ cd path/to/your/project
 # Install dependencies
 pip install -r requirements.txt
 
-#It is recommended to use a virtual environment to isolate your project dependencies. To create and activate a virtual environment:
+# It is recommended to use a virtual environment to isolate your project dependencies. To create and activate a virtual environment:
 python -m venv venv
-source venv/bin/activate # On Windows use `venv\Scripts\activate`
+source venv/bin/activate 
+# On Windows use `venv\Scripts\activate`
 pip install -r requirements.txt
 
 # Run the project
